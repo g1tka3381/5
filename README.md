@@ -1,7 +1,7 @@
 # Домашнее задание к работе 5 #
 ## Условие задачи ##
 Создать программу вычисления указанной величины. Результат проверить при заданных исходных значениях.
-<img width="490" height="168" alt="image" src="https://github.com/user-attachments/assets/243a946d-4e0b-42c3-a483-e84db1b72615" />
+<img width="890" height="168" alt="image" src="https://github.com/user-attachments/assets/243a946d-4e0b-42c3-a483-e84db1b72615" />
 
 ## 1. Алгоритм блок-схема ##
 ### Алгоритм ###
